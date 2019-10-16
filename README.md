@@ -6,16 +6,20 @@
 [Caffeine](http://lightheadsw.com/caffeine/) was the most well-known app to keep your mac awake. For Windows users, **Espresso** could be an alternative.
 
 ## Run
-- ![Example_run_1](img/1-1.png)
-Click the cup to activate Espresso. If the cup is full with coffee, your Windows keeps awake.
-- ![Example_run_2](img/2-1.png)
-Click the cup to deactivate Espresso. If the cup is empty, your Windows may turn into power saving mode.
-- ![Example_run_3](img/3-1.png)
-Espresso keeps running until exit on the system tray.
-- ![Example_run_4](img/4-1.png)
-Clicking the system tray icon also works.
-- ![Example_run_5](img/5-1.png)
-Espresso shows a system tray message when it was activated/deactivated.
+**![Example_run_1](img/1-1.png)**
+- Click the cup to activate Espresso. If the cup is full with coffee, your Windows keeps awake.
+
+**![Example_run_2](img/2-1.png)**
+- Click the cup to deactivate Espresso. If the cup is empty, your Windows may turn into power saving mode.
+
+**![Example_run_3](img/3-1.png)**
+- Espresso keeps running until exit on the system tray.
+
+**![Example_run_4](img/4-1.png)**
+- Clicking the system tray icon also works.
+
+**![Example_run_5](img/5-1.png)**
+- Espresso shows a system tray message when it was activated/deactivated.
 
 ## Licence
 ```
